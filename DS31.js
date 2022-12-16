@@ -54,7 +54,7 @@ function ransomNote(note, magazine) {
 }
 
 
-
+// add tests
 
 console.log(ransomNote(), "")
 console.log(ransomNote(), "")
